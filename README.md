@@ -1,7 +1,7 @@
 # MLSLT: Towards Multilingual Sign Language Translation
 
 This repository contains the SP-10 dataset described in "MLSLT: Towards Multilingual Sign Language Translation".
-We are currently sorting out the code and data, and we will publish the complete data and processing code by March 28.
+The copyright of the data is owned by the non-profit association European Sign Language Centre, please ensure you have obtained permission before making any academic or commercial use.
 
 ## Download videos
 
